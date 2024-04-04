@@ -1,0 +1,7 @@
+{
+  "name": "@bozzhik/is-mobile",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
