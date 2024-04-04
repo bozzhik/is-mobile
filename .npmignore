@@ -1,0 +1,15 @@
+/.changeset
+/.github
+
+/node_modules
+/src
+
+.gitignore
+.npmrc
+
+CHANGELOG.md
+CONTRIBUTING.md
+
+pnpm-lock.yaml
+tsconfig.json
+
