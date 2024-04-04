@@ -1,7 +1,22 @@
 {
   "name": "@bozzhik/is-mobile",
-  "license": "MIT",
   "version": "0.1.0",
+  "license": "MIT",
+  "author": "bozzhik",
+  "description": "NPM package for detecting mobile devices in web applications.",
+  "homepage": "https://github.com/bozzhik/is-mobile",
+  "repository": {
+    "url": "https://github.com/bozzhik/is-mobile"
+  },
+  "keywords": [
+    "mobile",
+    "desktop",
+    "check",
+    "browser",
+    "is-mobile",
+    "user-agent",
+    "responsive"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
