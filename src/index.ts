@@ -1,3 +1,1 @@
-export const add = (a: number, b: number) => {
-  return a + b
-}
+export const isMobile = typeof window !== 'undefined' && /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)
