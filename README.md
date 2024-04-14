@@ -2,6 +2,8 @@
 
 The `@bozzhik/is-mobile` variable is a utility designed to determine whether the current device is considered mobile, based on browser identification.
 
+#### [Projects that already use this package →](https://github.com/topics/bozzhik-is-mobile)
+
 ## Installation
 
 To install the `isMobile` variable, you can use npm:
